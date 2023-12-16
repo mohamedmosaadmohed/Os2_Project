@@ -1,0 +1,4 @@
+--patch-module
+make_a_square=_
+--add-reads
+make_a_square=ALL-UNNAMED
